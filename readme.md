@@ -19,5 +19,5 @@
 
 ## How to View the Results?
 
-> - To view the primary wrangling and exploration, you can open the notebook.ipynb file on GitHub.
-> - To view to the final results, download the slideshow.slides.html file and open it with your browser. Use the keys to navigate between the plots and the comments.
+> - To view the primary wrangling and exploration, you can open the [notebook.ipynb](https://github.com/Moaaz-Mahmoud/Ford-Gobike-Data-Analysis/blob/master/notebook.ipynb) file on GitHub.
+> - To view to the final results, download the [slideshow.slides.html](https://github.com/Moaaz-Mahmoud/Ford-Gobike-Data-Analysis/blob/master/slideshow.slides.html) file and open it with your browser. Use the arrow keys (→ and ↓) to navigate between the plots and the comments.
