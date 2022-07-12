@@ -15,3 +15,9 @@
 
 > - The plots chosen for the presentation highlight the top factors that impact the trip durations. 
 > - For the Age–Duration relationship, two plots were used (a scatter plot and a heatmap) such that the first makes it easier to interpret the second.
+
+
+## How to View the Results?
+
+> - To view the primary wrangling and exploration, you can open the notebook.ipynb file on GitHub.
+> - To view to the final results, download the slideshow.slides.html file and open it with your browser. Use the keys to navigate between the plots and the comments.
